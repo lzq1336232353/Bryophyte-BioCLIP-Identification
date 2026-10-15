@@ -72,7 +72,7 @@ Because some images may originate from the same observation, locality, or simila
 └── tsne_step2_plot.py                         # Script to project and render t-SNE maps
 
 ---
-
+```
 ## Quick Start
 ```
 ### 1. Environment Setup
