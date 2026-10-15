@@ -74,9 +74,9 @@ Because some images may originate from the same observation, locality, or simila
 ---
 
 ## Quick Start
-
+```
 ### 1. Environment Setup
-Ensure you have Python 3.14+ and PyTorch installed. Install dependencies via:
+Install dependencies via:
 ```bash
 pip install torch torchvision open_clip_torch matplotlib scikit-learn pandas
 ```
