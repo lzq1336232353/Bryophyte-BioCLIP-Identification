@@ -74,7 +74,7 @@ Because some images may originate from the same observation, locality, or simila
 ---
 ```
 ## Quick Start
-```
+
 ### 1. Environment Setup
 Install dependencies via:
 ```bash
